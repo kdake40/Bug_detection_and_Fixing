@@ -78,7 +78,8 @@ print(response.json())
 
 ## 📷 Screenshots
 ### 🔍 **Bug Detection**
-![bug fixing](https://github.com/user-attachments/assets/6b4fa8bd-16ae-4400-b58a-5aee7f155d14)
+![bug detection](https://github.com/user-attachments/assets/fa484bfe-cece-4ec5-8746-98bbfa15b55d)
+
 
 
 ### ✅ **Fixed**
