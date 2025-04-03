@@ -78,14 +78,15 @@ print(response.json())
 
 ## 📷 Screenshots
 ### 🔍 **Bug Detection**
-![WhatsApp Image 2025-04-02 at 15 16 23_3f467d18](https://github.com/user-attachments/assets/b3cd4b58-9da9-4972-ba2a-8284fbb9ebe0)
+![bug fixing](https://github.com/user-attachments/assets/e3217abf-ecc6-451d-b811-b07153d2926f)
+
 
 
 
 ### ✅ **Fixed**
 ![WhatsApp Image 2025-04-02 at 15 16 23_ca09297d](https://github.com/user-attachments/assets/20bdcc98-267e-4c14-9f86-0afc80041a26)
 
-![WhatsApp Image 2025-04-02 at 15 16 22_551930cb](https://github.com/user-attachments/assets/f2d0d297-19c5-4a86-ae49-4592330bf161)
+![bug fixing](https://github.com/user-attachments/assets/d697b690-288c-4f44-903a-3db126f54985)
 
 
 
